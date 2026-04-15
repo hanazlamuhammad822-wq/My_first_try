@@ -1,4 +1,3 @@
-from itertools import count
 
 students = [
     ("Ali", 85),
